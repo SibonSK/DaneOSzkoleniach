@@ -1,0 +1,2 @@
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\obj\Debug\Zbierania Danych o Szkoleniach Zdalnych.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\obj\Debug\Zbierania Danych o Szkoleniach Zdalnych.csproj.CoreCompileInputs.cache

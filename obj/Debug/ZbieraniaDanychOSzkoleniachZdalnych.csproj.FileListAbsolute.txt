@@ -1,0 +1,7 @@
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\obj\Debug\ZbieraniaDanychOSzkoleniachZdalnych.csproj.AssemblyReference.cache
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\obj\Debug\ZbieraniaDanychOSzkoleniachZdalnych.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\bin\Debug\Zbierania Danych o Szkoleniach Zdalnych.exe.config
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\bin\Debug\Zbierania Danych o Szkoleniach Zdalnych.exe
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\bin\Debug\Zbierania Danych o Szkoleniach Zdalnych.pdb
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\obj\Debug\Zbierania Danych o Szkoleniach Zdalnych.exe
+C:\Users\Kacper\Desktop\Dobosz\Zbierania Danych o Szkoleniach Zdalnych\Zbierania Danych o Szkoleniach Zdalnych\obj\Debug\Zbierania Danych o Szkoleniach Zdalnych.pdb
